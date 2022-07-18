@@ -1,0 +1,7 @@
+This program is used to help ease Elite Dangerous money making through exploration
+
+Create a route using https://www.spansh.co.uk/riches and download it as a csv
+The file can then be loaded into the UI
+The UI will then automatically monitor tasks and check them off
+When entering a target system, the name of the next system is automatically copied into the clipboard
+	-this behavior can be changed in constants.py
