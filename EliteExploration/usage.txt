@@ -1,5 +1,7 @@
 This program is used to help ease Elite Dangerous money making through exploration
 
+edit search path in constants.py to reflect your username
+
 Create a route using https://www.spansh.co.uk/riches and download it as a csv
 The file can then be loaded into the UI
 The UI will then automatically monitor tasks and check them off
